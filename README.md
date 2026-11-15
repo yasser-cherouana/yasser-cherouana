@@ -11,7 +11,7 @@ Ich suche eine Ausbildung in Deutschland und lerne jeden Tag Deutsch und Webentw
 ## Currently learning
 - 🇩🇪 German: preparing for the Goethe exam and working towards C1
 - 🇬🇧 English: improving my speaking, reading and writing every day
-- 💻 Web development: building small projects with HTML, CSS, JavaScript, React
+- 💻 Web development: building small projects with HTML, CSS, JavaScript and React
 - 🔧 Git and GitHub
 
 ## Projects
