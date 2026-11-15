@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yasser 👋
 
-<!--
-**yasser-cherouana/yasser-cherouana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Algeria and I'm looking for an **Ausbildung in Germany**.
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Baccalauréat in Mathematics (2022)
+- 🗣️ Arabic (native), German (B2), English (B1), French (A2)
+- 💻 HTML, CSS, JavaScript, Word, Excel
+- 🌱 Currently learning more about web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My First Calculator](https://github.com/yasser-cherouana/Calculator) - [Live demo](https://yasser-cherouana.github.io/Calculator/)
+
+## Contact
+yassercherouana72@gmail.com
